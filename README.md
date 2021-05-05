@@ -35,7 +35,7 @@ node js in the school computer)
 🍏 We do it like this because is easy if you don't know about how to use docker, and with this way
 is less tricky to restart the calculator just following the step 2
 
-⚠️ Note: I did not program the Calculator but the NodeJS Server and the Docker Container
+⚠️ Note ⚠️  I did not program the Calculator but the NodeJS Server and the Docker Container
 If you want to thank the Calculator creator for his work, you can suscribe in his Youtube channel
 
 https://www.youtube.com/watch?v=j59qQ7YWLxw
