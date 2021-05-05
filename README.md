@@ -13,6 +13,8 @@ ___
 
 👉 A Browser (Chrome, Mozilla, Opera...)
 
+___
+
 # How to use:
 1. First of all you have to build the docker image by going to the repository and writing the next line of code in your terminal
 
@@ -36,6 +38,8 @@ ___
 
 🍏 We do it like this because is easy if you don't know about how to use docker, and with this way
 is less tricky to restart the calculator just following the step 2
+
+___
 
 ⚠️ Note ⚠️  I did not program the Calculator but the NodeJS Server and the Docker Container
 
