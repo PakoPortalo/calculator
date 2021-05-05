@@ -1,4 +1,4 @@
-# Calculator server made by Pako Portalo
+# Calculator Server made by Pako Portalo
 
 Implementation of a Calculator browser aplication made with Node JS in a Docker container. The calculator is made with JavaScript Vanilla, more info below.
 I thought that could be useful to implement the calculator in a docker container because
