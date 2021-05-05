@@ -26,7 +26,9 @@ node js in the school computer)
 
 4. The last step is go to your browser and navigate to "localhost:3000" and there you will have your brand new calculator!
 
-5. To stop your Calculator, you have to press ctrl+z, then write "exit", if you read "You have stopped jobs.", then write again "exit", and finally stop your Docker container with the next command
+5. To stop your Calculator, you have to press ctrl+z, then write "exit", if you read "You have stopped jobs.", then write again "exit", if not, continue to the last step
+
+6. Finally stop your Docker container with the next command:
 
 ```docker stop app && docker rm app```
 
